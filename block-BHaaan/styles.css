@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4em;
+}
+
+.header {
+  color: blue;
+  background-color: #c786c6;
+  text-align: center;
+  padding: 10px;
+}
+.main {
+  padding-left: 30%;
+  padding-right: 30%;
+}
+.date {
+  color: blue;
+}
+.animal-image {
+  width: 500px;
+}
+.footer {
+  background-color: #8f90e7;
+  text-align: center;
+  padding: 10px;
+}
